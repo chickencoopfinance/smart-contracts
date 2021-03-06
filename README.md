@@ -1,1 +1,1 @@
-# chickencoop-contracts
+# smart-contracts
